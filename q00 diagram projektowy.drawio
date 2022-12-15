@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T16:44:45.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="n3thkUmjbDHnToE-VhER" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-15T16:44:55.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="Gzb9_SfeSXrm6Xy6d75-" type="github" pages="4">
   <diagram id="UQUSvF4I5KepVSpX5gGY" name="Nasza Misja Wspaniała">
     <mxGraphModel dx="2279" dy="1331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="274" y="120" width="280" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;font style=&quot;font-size: 70px&quot; color=&quot;#ff0000&quot;&gt;ඞ&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#080808;" parent="1" vertex="1">
-          <mxGeometry x="870" width="100" height="150" as="geometry" />
+          <mxGeometry x="-90" y="520" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="SyV1XuI-DCS6ZRAWAmAv-12" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;strokeColor=#000000;" parent="1" source="3" target="V4JpAmFx-KWgz6-giR5c-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
